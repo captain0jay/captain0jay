@@ -11,8 +11,6 @@
 
 </div>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captain0jay&show_icons=true&locale=en" alt="captain0jay" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captain0jay&" alt="captain0jay" /></p>
 
 <h3 align="left">Connect with me:</h3>
