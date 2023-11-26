@@ -1,12 +1,15 @@
 <img align="center" src="https://raw.githubusercontent.com/captain0jay/captain0jay/main/Captainjay_linkedin_banner.png"/>
 <h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">A passionate programmer</h3>
+<center>
 
 - 👨‍💻 All of my projects are available at [Github Profile](https://github.com/captain0jay)
 
 - 📫 How to reach me **capja778@gmail.com**
 
 - 📄 Know about my experiences [Check resume out](https://github.com/captain0jay/captain0jay/blob/197cd06110345b5bedadb0d083482de84ab92d07/Captainjay_Resume(u).pdf)
+
+</center>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captain0jay&show_icons=true&locale=en" alt="captain0jay" /></p>
 
