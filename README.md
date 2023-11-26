@@ -1,17 +1,16 @@
 <img align="center" src="https://raw.githubusercontent.com/captain0jay/captain0jay/main/Captainjay_linkedin_banner.png"/>
 <h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">A passionate programmer</h3>
-<p align="center">
-  <samp>
+<div style="text-align:center;">
 
-- 👨‍💻 All of my projects are available at [Github Profile](https://github.com/captain0jay)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/captain0jay">Github Profile</a>
 
-- 📫 How to reach me **capja778@gmail.com**
+- 📫 How to reach me <strong>capja778@gmail.com</strong>
 
-- 📄 Know about my experiences [Check resume out](https://github.com/captain0jay/captain0jay/blob/197cd06110345b5bedadb0d083482de84ab92d07/Captainjay_Resume(u).pdf)
+- 📄 Know about my experiences <a href="https://github.com/captain0jay/captain0jay/blob/197cd06110345b5bedadb0d083482de84ab92d07/Captainjay_Resume(u).pdf">Check resume out</a>
 
-  </samp>
-</p>
+</div>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captain0jay&show_icons=true&locale=en" alt="captain0jay" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captain0jay&" alt="captain0jay" /></p>
