@@ -1,3 +1,4 @@
+<img align="center" src="https://raw.githubusercontent.com/captain0jay/captain0jay/main/Captainjay_linkedin_banner.png"/>
 <h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">A passionate programmer</h3>
 
