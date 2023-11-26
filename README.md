@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **capja778@gmail.com**
 
-- 📄 Know about my experiences [Check Resume out]([https://github.com/captain0jay](https://github.com/captain0jay/captain0jay/blob/197cd06110345b5bedadb0d083482de84ab92d07/Captainjay_Resume(u).pdf))
+- 📄 Know about my experiences [Check_Resume_out]([https://github.com/captain0jay](https://github.com/captain0jay/captain0jay/blob/197cd06110345b5bedadb0d083482de84ab92d07/Captainjay_Resume(u).pdf))
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captain0jay&show_icons=true&locale=en" alt="captain0jay" /></p>
 
