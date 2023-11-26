@@ -3,11 +3,11 @@
 <h3 align="center">A passionate programmer</h3>
 <div align="center">
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/captain0jay">Github Profile</a>
+ 👨‍💻 All of my projects are available at <a href="https://github.com/captain0jay">Github Profile</a>
 
-- 📫 How to reach me <strong>capja778@gmail.com</strong>
+ 📫 How to reach me <strong>capja778@gmail.com</strong>
 
-- 📄 Know about my experiences <a href="https://github.com/captain0jay/captain0jay/blob/197cd06110345b5bedadb0d083482de84ab92d07/Captainjay_Resume(u).pdf">Check resume out</a>
+ 📄 Know about my experiences <a href="https://github.com/captain0jay/captain0jay/blob/197cd06110345b5bedadb0d083482de84ab92d07/Captainjay_Resume(u).pdf">Check resume out</a>
 
 </div>
 
