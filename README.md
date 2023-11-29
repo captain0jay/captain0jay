@@ -7,7 +7,7 @@
 
  📫 How to reach me <strong>capja778@gmail.com</strong>
 
- 📄 Know about my experiences <a href="https://github.com/captain0jay/captain0jay/blob/197cd06110345b5bedadb0d083482de84ab92d07/Captainjay_Resume(u).pdf">Check resume out</a>
+ 📄 Know about my experiences <a href="https://github.com/captain0jay/captain0jay/blob/197cd06110345b5bedadb0d083482de84ab92d07/(v3)Captainjay_Resume.pdf">Check resume out</a>
 
 </div>
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/captain0jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="captain0jay" height="30" width="40" /></a>
- <a href="https://twitter.com/captain0jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="captain0jay" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/captain0jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="captain0jay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
