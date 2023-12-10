@@ -7,7 +7,7 @@
 
  📫 How to reach me <strong>capja778@gmail.com</strong>
 
- 📄 Know about my experiences <a href="https://github.com/captain0jay/captain0jay/blob/753609164ff38d919c95d93a76732153c89a79fa/(v3.3)Captainjay_Resume.pdf">Check resume out</a>
+ 📄 Know about my experiences <a href="https://github.com/captain0jay/captain0jay/blob/cfe66d75e169ffa80ed26a98684aa8e62fa108d0/(v4)Captainjay_Resume.pdf">Check resume out</a>
 
 </div>
 
