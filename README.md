@@ -3,14 +3,14 @@
 <h3 align="center">A passionate programmer</h3>
 <div align="center">
  
- 💻 My <a href="https://jaycaptain.site/">Portfolio Website</a>
+ 💻 My <a href="https://jaycaptain.xyz/">Portfolio Website</a>
 
  
  👨‍💻 All of my projects are available at <a href="https://github.com/captain0jay">Github Profile</a>
 
  📫 How to reach me <strong>capja778@gmail.com</strong>
 
- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1P--a6xlBHE8iJYSQT7akHnFk8b8VbfXD/view?usp=sharing">Check out my resume!</a>
+ 📄 Know about my experiences <a href="https://drive.google.com/file/d/116vzG9zznV_DeDvCZfj-O3y1u_IrBws7/view?usp=sharing">Check out my resume!</a>
 
 </div>
 
